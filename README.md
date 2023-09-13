@@ -1,6 +1,6 @@
 ### BIENVENU DANS MON MONDE 👋
 ## quelque stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gor-Atidiani&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ## Languages et outils
 
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)](https://www.php.net)
