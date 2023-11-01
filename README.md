@@ -10,9 +10,8 @@
 
 
 [![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL&logoColor=4169E1)](https://www.postgresql.org)
 
-[![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)](https://www.linux.org/)
+## [![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)](https://www.linux.org/)
 [![KDE](https://img.shields.io/badge/-KDE-000?&logo=KDE&logoColor=FFF)](https://kde.org/)
 [![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://www.github.com/)
@@ -20,9 +19,6 @@
 
 
 ## En apprentissage / perfectionnement
-
-[![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoColor=4FC08D)](https://vuejs.org/)
-[![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js&logoColor=00DC82)](https://nuxtjs.org/)
 [![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma&logoColor=F24E1E)](https://www.figma.com/)
 ## LeetCode for lyfe!
 [![Yangshun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gor-Atidiani&show_icons=true&icon_color=586069&text_color=586069&bg_color=fff&line_height=30&hide_title=true&title_color=0366d6)](https://github.com/anuraghazra/github-readme-stats)
