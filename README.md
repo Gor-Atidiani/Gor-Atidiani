@@ -1,4 +1,4 @@
-### BIENVENU DANS MON MONDE 👋
+### BIENVENU 👋!!
 ## quelque stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gor-Atidiani&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ## Languages et outils
