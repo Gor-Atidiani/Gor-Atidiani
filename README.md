@@ -1,5 +1,6 @@
 ### BIENVENU 👋!!
 ## quelque stats
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gor-Atidiani&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ## Languages et outils
 [![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26)](https://www.w3.org/html/)
